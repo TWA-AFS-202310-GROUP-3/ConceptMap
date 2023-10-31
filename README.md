@@ -14,4 +14,4 @@
 - Cyber Security
 
 ## Requirement
-- Please submit your concept map as a picture(png, jpeg).
+![image](https://github.com/jingwang315/ConceptMap/assets/148844919/ed9a5c2c-dc9f-4614-9690-943517b9431a)
